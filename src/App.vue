@@ -13,8 +13,8 @@
 </template>
 
 <script>
-  import Servers from './Servers.vue'
-  import ServerDetails from './ServerDetail.vue'
+  import Servers from './components/Server/Servers.vue'
+  import ServerDetails from './components/Server/ServerDetail.vue'
 
   export default {
       components:{
